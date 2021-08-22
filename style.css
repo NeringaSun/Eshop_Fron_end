@@ -1,0 +1,15 @@
+body {
+  background-color: antiquewhite;
+}
+#cards,
+h1 {
+  width: 80%;
+  margin: auto;
+}
+#cards > div {
+  border: 2px solid black;
+  width: 50%;
+  background-color: white;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
